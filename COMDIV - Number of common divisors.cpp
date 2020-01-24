@@ -23,7 +23,7 @@ int main() {
 	            count+=2;
 	        }
 	    }
-	    printf("%lu\n",count);
+	     printf("%lu\n",count);
 	}
 	return 0;
 }
